@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(images/marinabay.jpg);
+    background-size: cover;
+    background-position: unset;
+
+}
+
+h1 {
+    
+    color: white;
+    text-align: center;
+    font-family: Arial;
+}
